@@ -3,6 +3,7 @@
 <h2>Using tkinter Module</h2>
 
 <h4>from tkinter import Tk, Button, PhotoImage, Label, LabelFrame, W, E, N, S, Entry, END, StringVar, Scrollbar, Toplevel</h4>
+<h4>from tkinter import ttk</h4>
 
 <h4>tk</h4> - Creates application window (main container)
 
@@ -25,3 +26,5 @@
 <h4>ScrollBar</h4> - Add a scroll bar to application that enables yoi to scroll
 
 <h4>Toplevel</h4> - Create & Display the top level window (Add pop window to application)
+
+<h4>ttk</h4> - Provides access to tk themed widgets
