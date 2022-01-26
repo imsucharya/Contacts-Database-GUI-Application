@@ -5,7 +5,7 @@
 <h4>from tkinter import Tk, Button, PhotoImage, Label, LabelFrame, W, E, N, S, Entry, END, StringVar, Scrollbar, Toplevel</h4>
 <h4>from tkinter import ttk</h4>
 
-<h4>tk</h4> - Creates application window (main container)
+<h4>Tk</h4> - Creates application window (main container)
 
 <h4>Button</h4> - Add buttons to application.
 
